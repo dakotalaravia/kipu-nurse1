@@ -1,2 +1,2 @@
-# kipi-nurse1
+# kipu-nurse1
 Nurse Quiz 1
